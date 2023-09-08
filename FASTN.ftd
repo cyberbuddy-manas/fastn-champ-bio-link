@@ -1,14 +1,14 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: cyberbuddy-manas.github.io/fastn-champ-bio-link
+favicon: /-/cyberbuddy-manas.github.io/fastn-champ-bio-link/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
+-- fastn.auto-import: cyberbuddy-manas.github.io/fastn-champ-bio-link/FASTN/ds
+-- fastn.auto-import: cyberbuddy-manas.github.io/fastn-champ-bio-link/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
